@@ -340,7 +340,7 @@ with st.sidebar:
     
     st.markdown("""
         <div style="text-align: center; margin-top: -10px; margin-bottom: 15px;">
-            <h2 style="margin: 0; font-size: 1.35rem; font-weight: 800;">Carlos M. Correa</h2>
+            <h2 style="margin: 0; font-size: 1.35rem; font-weight: 800;">Joseph Santiago Jimenez Jimenez</h2>
             <p style="color: #6366f1; font-weight: 600; font-size: 0.85rem; margin-top: 4px; margin-bottom: 10px;">
                 Desarrollador & Especialista en IA
             </p>
