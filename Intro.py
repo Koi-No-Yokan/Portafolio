@@ -377,7 +377,7 @@ with st.sidebar:
     """, unsafe_allow_html=True)
 
     st.markdown("---")
-    st.caption("© 2026 Carlos M. Correa • cmcorrea_apps")
+    st.caption("© 2026 Joseph Santiago Jimenez Jimenez •")
 
 # ---------------------------------------------------------
 # Main Header / Hero Section
